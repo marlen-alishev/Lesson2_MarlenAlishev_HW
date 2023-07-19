@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.AssemblyInfo.cs
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\bin\Debug\net6.0\Exercise13.exe
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\bin\Debug\net6.0\Exercise13.deps.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\bin\Debug\net6.0\Exercise13.runtimeconfig.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\bin\Debug\net6.0\Exercise13.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\bin\Debug\net6.0\Exercise13.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\refint\Exercise13.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\Exercise13.genruntimeconfig.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar2_Marlen Alishev_HW\Exercise13\obj\Debug\net6.0\ref\Exercise13.dll
